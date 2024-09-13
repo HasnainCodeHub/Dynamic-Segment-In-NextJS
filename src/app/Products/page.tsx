@@ -44,7 +44,7 @@ function products() {
                 {
                 data.map((item) => (
                     <li>
-                        <h2 className="text-5xl text-justify text-black ml-4 mt-24 mr-48 "> {item.id} </h2>
+                        <div key={item.id} className="text-5xl text-justify text-black ml-4 mt-24 mr-48 ">  </div>
                         <Link className="text-5xl text-justify text-blue-600 4 mt-24 mr-48" href={`/Products/${item.id}`}>{item.title} </Link>
                     </li>
                 ))
