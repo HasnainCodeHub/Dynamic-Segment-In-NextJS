@@ -16,7 +16,7 @@ We pride ourselves on being a trusted resource, offering unbiased advice and the
 <br />
 <br />
 Thank you for choosing Hasnain Electronics as your trusted source for laptops. We're excited to help you find the laptop that's perfect for you!</h1>
-<button className="bg-red-600 text-white ml-12 mt-24 h-12"><Link href ='http://localhost:3000/'>Back To Home Page</Link></button>
+<button className="bg-red-600 text-white ml-12 mt-24 h-12"><Link href ='/'>Back To Home Page</Link></button>
 
 
         </main>
