@@ -48,7 +48,7 @@ function prices() {
 
                 </ul>
             </ul>
-            <button className="bg-red-600 text-white ml-12 mt-24  h-12"><Link href='http://localhost:3000/'>Back To Home Page</Link></button>
+            <button className="bg-red-600 text-white ml-12 mt-24  h-12"><Link href='/'>Back To Home Page</Link></button>
 
         </main>
     )
